@@ -1,0 +1,9 @@
+﻿<Page x:Class="PaymentApp.Pages.PaymentTabPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Таблица платежей" Tag="Таблица платежей">
+    <Grid>
+        <TextBlock Text="Здесь будет таблица платежей" 
+                   HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20"/>
+    </Grid>
+</Page>
